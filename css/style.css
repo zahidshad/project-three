@@ -1,0 +1,109 @@
+.container{height: 1000px;
+	width: 100%;
+	background-color: blue;
+
+}
+.header{
+	height: 100px;
+	width: auto;
+	background-color: purple;
+	color: white;
+	font-size: 50px;
+
+}
+.logo{
+
+	height: 100%;
+	width: 20%;
+
+	background-color: black;
+	float: left;
+
+}
+.menu{height: 100%;
+	width: 80%;
+	background-color: green;
+	float: left;
+
+
+}
+.sub-container{ height: 600px;
+	width: 100%;
+	background-color: red;
+	color: white;
+	font-size: 50px;
+}
+.body{height: 600px;
+	width: 20%;
+	background-color: lightgreen;
+	float:left; 
+
+}
+.banner{height: 400px;
+	width: 80%;
+	background-color: aqua;
+	float: left;
+	font-size: 50px;
+
+}
+.banner-one{height: 200px;
+	width: 100%;
+	background-color:pink ;
+	float: left;
+
+}
+.banner-two{height: 200px;
+	width: 100%;
+	background-color:black;
+	float: left;
+
+}
+.content{height: 200px;
+	width: 80%;
+	background-color: yellow;
+	float: left;
+	font-size: 50px;
+	
+
+}
+.part-one{height: 200px;
+	width: 50%;
+	background-color:#CD5C5C;
+	float:left;
+
+}
+.part-two{height: 200px;
+	width: 50%;
+	background-color:#F08080; 
+	float:left;
+
+
+}
+.add{height: 250px;
+	width: 100%;
+	background-color: green;
+	color: white;
+	font-size: 50px;
+
+}
+.add-one{height: 250px;
+	width: 50%;
+	background-color: grey;
+	float: left;
+
+}
+.add-two{height: 250px;
+	width: 50%;
+	background-color: black;
+	float: left;
+
+}
+.footer{height: 50px;
+	width: 100%;
+	background-color:#008080 ;
+	color: white;
+	font-size: 50px;
+
+
+
+}
